@@ -1,6 +1,6 @@
-# DaemonBite Sega Controllers To USB Adapter
+# DaemonBite Sega / C64 Controllers To USB Adapter
 
-## Forked from MickGyver / DaemonBite-Retro-Controllers-USB and based on Jon Thysells work - Modifed to support retro-bit 6 button Controllers
+Forked from MickGyver / DaemonBite-Retro-Controllers-USB and based on Jon Thysells work - Modifed to support retro-bit 6 button Controllers
 
 ## Introduction
 This is a simple to build adapter for connecting two Mega Drive (Genesis), Master System (+ Atari and C= controllers) to USB. It supports 3 and 6-button Mega Drive controllers and 1 and 2-button SMS/Atari/C= controllers.
